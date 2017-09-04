@@ -1,0 +1,65 @@
+body::-webkit-scrollbar-thumb,
+.bg-primary,
+.btn-primary:active,
+.btn-primary:active:focus,
+.btn-default,
+.btn-default:focus,
+.btn-default:active,
+.btn-default:active:focus,
+.btn-primary:hover,
+.btn-primary:focus,
+.icon-primary,
+.marked-list li span:before,
+.divider,
+.section-title .title:before,
+.cont-block.right:before,
+.cont-block.left:before,
+.img-container .img-panel:after,
+.owl-carousel .owl-controls .owl-nav .owl-prev,
+.owl-carousel .owl-controls .owl-nav .owl-next,
+.owl-carousel .owl-controls .owl-nav .owl-prev:hover:before, .owl-carousel .owl-controls .owl-nav .owl-prev:hover:after,
+.owl-carousel .owl-controls .owl-nav .owl-next:hover:before,
+.owl-carousel .owl-controls .owl-nav .owl-next:hover:after,
+.video-section .icon,
+.pricing-box-primary .pricing-box-main,
+.toTopButton,
+.iso .button:after,
+#style-switcher .toggle-switcher {
+  background: #00F1A9;
+}
+
+.btn-default:hover,
+.btn-primary,
+.btn-default,
+.btn-default:focus,
+.btn-default:active,
+.btn-default:active:focus,
+.btn-primary:hover,
+.btn-primary:focus,
+.form-control,
+.form-control:focus {
+  border-color: #00F1A9;
+}
+
+.link:hover,
+a:hover,
+a:focus,
+h1 a:focus, h1 a:hover, h2 a:focus, h2 a:hover, h3 a:focus, h3 a:hover, h4 a:focus, h4 a:hover, h5 a:focus, h5 a:hover, h6 a:focus, h6 a:hover, .h1 a:focus, .h1 a:hover, .h2 a:focus, .h2 a:hover, .h3 a:focus, .h3 a:hover, .h4 a:focus, .h4 a:hover, .h5 a:focus, .h5 a:hover, .h6 a:focus, .h6 a:hover,
+html body .text-primary,
+.img-links .icon:hover,
+.project-list .content a:hover,
+.quote span,
+.inner-cont p,
+.blog-post .post-text .post-data > * .icon,
+html body .k-nav-links li.active a,
+html body .k-nav-links a:hover,
+.slider_1 .slide-head span,
+.main-footer .footer-top .unit-left {
+  color: #00F1A9;
+}
+
+@media (min-width: 768px) {
+  .contact-data + .contact-data {
+    border-color: #00F1A9;
+  }
+}
